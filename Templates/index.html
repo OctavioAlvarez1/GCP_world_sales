@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Upload File</title>
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            margin: 0;
+            background-color: #f4f4f9; 
+        }
+        .header {
+            background-color: #2f0a94;
+            color: white;
+            padding: 15px;
+            text-align: center;
+            width: 100%; 
+            position: absolute; 
+            top: 0;
+            left: 0;
+        }
+        h2{
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+        .container {
+            padding: 30px;
+            text-align: center;
+            background-color: white;
+            border-radius: 10px; 
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+            height: 300px;
+            width: 600px; /* Ancho máximo del contenedor */
+            margin-top: 50px; /* Espacio para el header */
+        }
+        form {
+            margin-top: 20px;
+        }
+        input[type="file"] {
+            margin-top: 20px;
+            display: block;
+            margin: 10px auto;
+        }
+        input[type="submit"] {
+            margin-top: 20px;
+            background-color: #2f0a94;
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            border-radius: 25px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.3s, box-shadow 0.3s;
+        }
+        input[type="submit"]:hover {
+            background-color: #4a1d9b; 
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        input[type="submit"]:active {
+            background-color: #1c0a60; 
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Sales data upload</h1>
+    </div>
+    <div class="container">
+        <h2>Upload File to GCS</h2>
+        <form action="/" method="post" enctype="multipart/form-data">
+            <input type="file" name="file">
+            <input type="submit" value="Upload">
+        </form>
+    </div>
+</body>
+</html>
