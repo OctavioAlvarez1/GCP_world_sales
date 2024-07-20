@@ -1,5 +1,8 @@
 <h1 align="center">PROYECTO VENTAS MUNDIALES</h1>
 <br>
+<p align="center">
+  <img src="https://github.com/OctavioAlvarez1/GCP_world_sales/blob/main/Images/sales.png" alt="Imagen" width="800" height="500">
+</p>
 <h1>Herramientas</h1>
 Este proyecto de <strong>Data Analytics</strong> fue creado utilizando <strong> Python y las tecnologías proporcionadas por la nube de Google (GCP)</strong>.
 <br>
@@ -10,7 +13,3 @@ Este proyecto de <strong>Data Analytics</strong> fue creado utilizando <strong> 
   <li><strong>Crear un dashboard en Looker Studio </strong> que permita mostrar relaciones relevantes entre los datos.</li>
 </ul>
 <br>
-
-<p align="center">
-  <img src="https://github.com/OctavioAlvarez1/GCP_world_sales/blob/main/Images/sales.png" alt="Imagen" width="800" height="500">
-</p>
