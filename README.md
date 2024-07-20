@@ -12,5 +12,5 @@ Este proyecto de <strong>Data Analytics</strong> fue creado utilizando <strong> 
 <br>
 
 <p align="center">
-  <img src="https://github.com/OctavioAlvarez1/GCP_world_sales/tree/main/Images/sales.png" alt="Imagen" width="800" height="400">
+  <img src="https://github.com/OctavioAlvarez1/GCP_world_sales/blob/main/Images/sales.png" alt="Imagen" width="800" height="400">
 </p>
