@@ -14,7 +14,7 @@ Este proyecto de <strong>Data Analytics</strong> fue creado utilizando <strong> 
   <li><strong>Crear un dashboard en Looker Studio </strong> que permita mostrar relaciones relevantes entre los datos.</li>
 </ul>
 <br>
-<h2>Visión General</h2>
+<h1>Visión General</h1>
 <ul>
   <li><strong>Portal Web:</strong> construido con la librería Flask de Python para permitir a los usuarios subir archivos de datos de ventas.</li>
   <li><strong>Almacenamiento:</strong> los archivos subidos se almacenan en un bucket de GCS.</li>
