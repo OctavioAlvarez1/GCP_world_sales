@@ -26,7 +26,7 @@ Este proyecto de <strong>Data Analytics</strong> fue creado utilizando <strong> 
 <h1>Pipeline</h1>
 <br>
 <p align="center">
-  <img src="https://github.com/OctavioAlvarez1/GCP_world_sales/blob/main/Images/pipeline.png" alt="Imagen" width="800" height="450">
+  <img src="https://github.com/OctavioAlvarez1/GCP_world_sales/blob/main/Images/pipeline.png" alt="Imagen" width="800" height="350">
 </p>
 <br>
 <h1>Dashboard</h1>
