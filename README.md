@@ -22,3 +22,9 @@ Este proyecto de <strong>Data Analytics</strong> fue creado utilizando <strong> 
   <li><strong>Proceso ETL:</strong> proceso de Extraer, Transformar y Cargar implementado para manejar los datos desde el estado bruto hasta el estado procesado.</li>
   <li><strong>Reportes:</strong> vistas resumidas y dashboards en Looker Studio para métricas clave, con capacidades de filtrado y profundización.</li>
 </ul>
+<br>
+<h1>Pipeline</h1>
+<br>
+<p align="center">
+  <img src="https://github.com/OctavioAlvarez1/GCP_world_sales/blob/main/Images/pipeline.png" alt="Imagen" width="800" height="500">
+</p>
