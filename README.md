@@ -32,5 +32,5 @@ Este proyecto de <strong>Data Analytics</strong> fue creado utilizando <strong> 
 <h1>Dashboard</h1>
 <br>
 <p align="center">
-  <img src="https://github.com/OctavioAlvarez1/GCP_world_sales/blob/main/Images/dashboard.png" alt="Imagen" width="800" height="600">
+  <img src="https://github.com/OctavioAlvarez1/GCP_world_sales/blob/main/Images/dashboard.png" alt="Imagen" width="600" height="400">
 </p>
